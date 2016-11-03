@@ -1,2 +1,2 @@
-# from
+# fromümitköy-dolmuşdura
 sistemdosyaları
